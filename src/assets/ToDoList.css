@@ -1,0 +1,18 @@
+.to-do-list {
+  font-family: sans-serif;
+  background-color: black; /* Change background color to black */
+  color: white; /* Change text color to white */
+  padding: 20px; /* Add padding for better readability */
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+input[type="text"] {
+  font-size: 1rem;
+}
+
+.list-group-item {
+  font-size: 1.2rem;
+}
